@@ -67,7 +67,7 @@ return [
     |
     */
 
-    'timezone' => 'America/Montreal',
+    'timezone' => 'Africa/Porto-Novo',
 
     /*
     |--------------------------------------------------------------------------
