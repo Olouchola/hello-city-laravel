@@ -1,5 +1,6 @@
 @extends('app')
 
+@section('title','Laravel')
 
 @section('content')
     <h2>welcome to Laravel</h2>
